@@ -1,0 +1,10 @@
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\bin\Debug\netcoreapp3.0\Passionflower.DataAccess.deps.json
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\bin\Debug\netcoreapp3.0\Passionflower.DataAccess.dll
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\obj\Debug\netcoreapp3.0\Passionflower.DataAccess.csprojAssemblyReference.cache
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\obj\Debug\netcoreapp3.0\Passionflower.DataAccess.AssemblyInfoInputs.cache
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\obj\Debug\netcoreapp3.0\Passionflower.DataAccess.AssemblyInfo.cs
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\bin\Debug\netcoreapp3.0\Passionflower.DataAccess.runtimeconfig.json
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\bin\Debug\netcoreapp3.0\Passionflower.DataAccess.runtimeconfig.dev.json
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\bin\Debug\netcoreapp3.0\Passionflower.DataAccess.pdb
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\obj\Debug\netcoreapp3.0\Passionflower.DataAccess.dll
+D:\Dogan\ProjecPrivate\Passionflower.DataAccess\obj\Debug\netcoreapp3.0\Passionflower.DataAccess.pdb
